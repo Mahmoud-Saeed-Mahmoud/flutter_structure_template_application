@@ -27,11 +27,9 @@ lib/
 ├── main.dart
 └── src/
 ├── data/
-├── extensions/
-│ ├── date_extension.dart
+├── extensions/
 │ ├── int_extension.dart
-│ ├── string_extension.dart
-│ └── time_extension.dart
+│ └── string_extension.dart
 ├── modules/
 │ ├── common/
 │ │ ├── components/
