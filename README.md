@@ -27,9 +27,9 @@ lib/
 ├── main.dart
 └── src/
 ├── data/
-├── extensions/
+├── extensions/
 │ ├── int_extension.dart
-│ └── string_extension.dart
+│ └── string_extension.dart
 ├── modules/
 │ ├── common/
 │ │ ├── components/
