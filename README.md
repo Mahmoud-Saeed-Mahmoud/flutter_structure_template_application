@@ -67,7 +67,7 @@ Contains data-related logic such as repositories and data sources.
 
 #### `extensions/`
 
-Dart extension methods for various data types like `DateTime`, `int`, `String`, and `Time`.
+Dart extension methods for various data types like `int` and `String`.
 
 #### `modules/`
 
