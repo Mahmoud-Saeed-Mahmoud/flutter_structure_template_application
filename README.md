@@ -110,8 +110,4 @@ Provide steps for getting started with the project:
 Suggestions for next steps in the project development:
 - Customize Modules: Define specific modules tailored to your application's features.
 - Enhance Services: Integrate additional services as needed for networking, storage, or other functionalities.
-- Refine UI: Build out UI components and screens within each module, ensuring consistency and usability.
-
----
-
-Feel free to customize this README with additional details, setup instructions, or specific information about your application. Happy coding!
+- Refine UI: Build out UI components and screens within each module, ensuring consistency and usability.
